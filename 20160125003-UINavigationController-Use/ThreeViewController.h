@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ThreeViewController.h
 //  20160125003-UINavigationController-Use
 //
 //  Created by Rainer on 16/1/25.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ThreeViewController : UIViewController
 
 @end
-
